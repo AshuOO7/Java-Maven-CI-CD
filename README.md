@@ -1,4 +1,4 @@
-# java-maven-starter-project
+# Java-Maven-CI-CD
 
 Here is a starter project for the ArcGIS Runtime SDK for Java with Maven.
 
